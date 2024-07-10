@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @aliafshar1232
+- 👋 Hi, I’m @aliafshar
 - 👀 I’m interested in ...technology , programming , AI
 - 🌱 I’m currently learning ... cs50 harvard
 - 💞️ I’m looking to collaborate on ...
